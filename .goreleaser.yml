@@ -1,0 +1,5 @@
+snapcraft:
+        summary: just say hello
+        description: not much more than a hello
+        grade: stable
+        confinement: strict
