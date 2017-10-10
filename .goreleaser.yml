@@ -1,3 +1,8 @@
+builds:
+        - goos:
+                - linux
+          goarch:
+                  - amd64
 snapcraft:
         summary: just say hello
         description: not much more than a hello
